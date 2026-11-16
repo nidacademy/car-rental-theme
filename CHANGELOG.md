@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.1
+
+- Tested with WordPress 7.1.
+- Text domain and stylesheet names now use `exotic-cars`, matching the theme folder.
+
 ## 1.2.0
 
 - First public release on GitHub.
