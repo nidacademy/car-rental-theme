@@ -20,6 +20,7 @@
   <a href="#-download">Download</a> ·
   <a href="#-screenshots">Screenshots</a> ·
   <a href="#-features">Features</a> ·
+  <a href="#-no-website-yet-get-hosting-and-wordpress">Hosting</a> ·
   <a href="#-install">Install</a> ·
   <a href="#-updates">Updates</a> ·
   <a href="#-follow-nid-academy">Follow</a>
@@ -73,6 +74,23 @@
 | 🧩 **Elementor widgets** | Car listings and brand logos you can drop on any page. |
 | 🪄 **One-click demo** | Appearance → Import demo installs the demo website in about a minute. |
 | 🔄 **Updates itself** | New releases show under Dashboard → Updates. |
+
+## 🌐 No website yet? Get hosting and WordPress
+
+Exotic Cars needs a WordPress website. If you don't have one, here is the easiest way to start. We use **Hostinger** for our own sites: WordPress installs in a few clicks, and plans include a free domain for the first year, an SSL certificate (the padlock) and email.
+
+<p>
+  <a href="https://www.hostinger.com/nidacademy"><img src="https://img.shields.io/badge/Get%20Hostinger%20hosting-673de6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Get Hostinger hosting"></a>
+</p>
+
+1. **Choose a plan.** Open [Hostinger](https://www.hostinger.com/nidacademy) and pick a **WordPress hosting** plan. *Premium* is enough to start; *Business* is faster and adds daily backups, which is useful once bookings come in.
+2. **Create your account and pay.** A longer period (12 or 24 months) gives the lowest monthly price.
+3. **Claim your domain.** Choose your free domain, for example `yourcarrental.com`, or connect one you already own.
+4. **Install WordPress.** When Hostinger asks what you want to build, choose **WordPress**. Set your admin email and a strong password, and skip any theme it suggests: you will upload Exotic Cars instead. Already past this step? In **hPanel**, go to **Websites → Add website → WordPress**.
+5. **Wait a few minutes** for the domain and SSL to be ready, then open `yourdomain.com/wp-admin` and log in.
+6. **Install Exotic Cars** with the steps below.
+
+<sub>This is an affiliate link: if you buy through it, Nid Academy earns a small commission at no extra cost to you. It helps us keep these tools free.</sub>
 
 ## 🚀 Install
 
