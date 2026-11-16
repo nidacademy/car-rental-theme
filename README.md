@@ -77,11 +77,15 @@
 
 ## 🌐 Need hosting?
 
-Exotic Cars runs on any WordPress site. No site yet? We use **Hostinger** for our own sites: WordPress in a few clicks, a free domain for the first year, and SSL included.
+Exotic Cars runs on any WordPress site. No site yet? We use **Hostinger** for our own sites.
 
-<p>
-  <a href="https://www.hostinger.com/nidacademy"><img src="https://img.shields.io/badge/Get%20Hostinger%20hosting-673de6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Get Hostinger hosting"></a>
-</p>
+<a href="https://www.hostinger.com/nidacademy">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/images/hosting-dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset=".github/images/hosting-light.webp">
+    <img src=".github/images/hosting-light.webp" alt="Your car rental website in 3 steps: choose a Hostinger plan, install WordPress, upload Exotic Cars" width="100%">
+  </picture>
+</a>
 
 <details>
 <summary><b>Show the steps</b> (about 10 minutes)</summary>
