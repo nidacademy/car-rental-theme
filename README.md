@@ -17,6 +17,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.car-theme.online">Live demo</a> ·
   <a href="#-download">Download</a> ·
   <a href="#-screenshots">Screenshots</a> ·
   <a href="#-features">Features</a> ·
@@ -33,6 +34,10 @@
 ## ⬇ Download
 
 **[Download exotic-cars.zip](https://github.com/NIDACADEMY/car-rental-theme/releases/latest/download/exotic-cars.zip)** (latest release), then upload it in **Appearance → Themes → Add New → Upload Theme**.
+
+<p>
+  <a href="https://www.car-theme.online"><img src="https://img.shields.io/badge/See%20the%20live%20demo-car--theme.online-15171c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="See the live demo: car-theme.online"></a>
+</p>
 
 ## 🖼 Screenshots
 
